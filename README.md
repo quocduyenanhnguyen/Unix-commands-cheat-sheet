@@ -1,5 +1,5 @@
 # Software I used:
-[Terminal MacOS]([https://dev.mysql.com/downloads/workbench/](https://support.apple.com/guide/terminal/welcome/mac)): to write Unix commands
+[Terminal MacOS](https://support.apple.com/guide/terminal/welcome/mac): to write Unix commands
 
 # Description: 
 
